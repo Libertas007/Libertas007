@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a 15 years-old self-taught developer. I'm currently working on my game [Word'n'Seek](word-n-seek.com) and I'd be glad if you support me.
-<!--
+I'm a 15 years-old self-taught developer. I'm currently working on my game [Word'n'Seek](https://word-n-seek.com/) and I'd be glad if you support me.
+<!--/
 **Libertas007/Libertas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
