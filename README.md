@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm a 18-year-old self-taught developer. Check out my main project, a game [Word'n'Seek](https://word-n-seek.com/), and I'd be glad if you supported me.
+
+You can also check out my [portfolio](https://adamsvoboda.eu/).
 <!--/
 **Libertas007/Libertas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
